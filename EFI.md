@@ -12,4 +12,4 @@ Our strategy at checkra1n so far is, because they're modern Armv8.4 parts suppor
 
 Another nice tidbit is that iBoot loads the firmware for the GPU and all the other on-SoC blocks before passing through control from iBoot. This removes the concerns on whether that firmware is redistributable or not in practice.
 
-However, reversing all of those blocks will take quite some work for a fully usable system
+However, reversing all of those blocks will take quite some work for a fully usable system.
